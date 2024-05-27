@@ -687,7 +687,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   InputNombre: {fileID: 1733985762}
-  nombre: {fileID: 0}
+  nombre: {fileID: 539662808}
 --- !u!4 &1452681392
 Transform:
   m_ObjectHideFlags: 0
